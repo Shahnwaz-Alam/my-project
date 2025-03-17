@@ -1,2 +1,2 @@
 # my-project
-creat  projects using html css and java script
+creat  projects using html css and java script.
